@@ -12,6 +12,6 @@ This project focuses on exploring over 40,000 different music tracks on Spotify,
 - Country
 - Rock
 
-Note that Hip-Hop and Rap are combined due to the overlap between the two genres, with a similar argument being applied to Anime and J-Pop. The highest accuracy achieved by a model in this project is 73.4%, which is a classification-based neural network.
+Note that Hip-Hop and Rap are combined due to the overlap between the two genres, with a similar argument being applied to Anime and J-Pop. The highest accuracy achieved by a model in this project is 73.4%, the model in question being a classification-based neural network.
 
 
