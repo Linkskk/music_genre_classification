@@ -12,5 +12,6 @@ This project focuses on exploring over 40,000 different music tracks on Spotify,
 - Country
 - Rock
 
-Note that Hip-Hop and Rap are combined due to the overlap between the two genres, with a similar argument being applied to Anime and J-Pop. With regard to predicting the genre of songs, I experimented with gradient boosted trees, support vector classifiers and a neural network based on classification. The neural network model performed the best, with an accuracy score of 73.4%.
+Note that Hip-Hop and Rap are combined due to the overlap between the two genres, with a similar argument being applied to Anime and J-Pop. The highest accuracy achieved by a model in this project is 73.4%, which is a classification-based neural network.
+
 
